@@ -1,4 +1,4 @@
-module cryptkit
+module github.com/axengine/cryptkit
 
 go 1.19
 

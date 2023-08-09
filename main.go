@@ -1,6 +1,6 @@
 package main
 
-import "cryptkit/commands"
+import "github.com/axengine/cryptkit/commands"
 
 func main() {
 	rootCmd := commands.RootCmd
